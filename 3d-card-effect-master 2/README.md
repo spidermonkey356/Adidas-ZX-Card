@@ -4,7 +4,7 @@ Thanks for checking out this code out.
 
 ## Things put into practice writing code
 
-- I became at understanding the Z-index.
+- I became better at understanding the Z-index.
 
 - I used CSS Flexbox for alignment.
 
